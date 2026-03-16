@@ -1,1 +1,1 @@
-# foodex-2026
+# FOODEX-2026
