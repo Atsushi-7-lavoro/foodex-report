@@ -1,0 +1,8 @@
+{
+  "name": "foodex-2026",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev-server.mjs"
+  }
+}
